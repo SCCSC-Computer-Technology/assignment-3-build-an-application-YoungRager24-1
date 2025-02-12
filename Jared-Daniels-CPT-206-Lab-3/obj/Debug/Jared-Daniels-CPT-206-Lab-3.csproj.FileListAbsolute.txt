@@ -1,0 +1,13 @@
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\bin\Debug\StateDB.mdf
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\bin\Debug\StateDB_log.ldf
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\bin\Debug\Jared-Daniels-CPT-206-Lab-3.exe.config
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\bin\Debug\Jared-Daniels-CPT-206-Lab-3.exe
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\bin\Debug\Jared-Daniels-CPT-206-Lab-3.pdb
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\obj\Debug\Jared-Daniels-CPT-206-Lab-3.csproj.AssemblyReference.cache
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\obj\Debug\Jared_Daniels_CPT_206_Lab_3.Details.resources
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\obj\Debug\Jared_Daniels_CPT_206_Lab_3.Form1.resources
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\obj\Debug\Jared_Daniels_CPT_206_Lab_3.Properties.Resources.resources
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\obj\Debug\Jared-Daniels-CPT-206-Lab-3.csproj.GenerateResource.cache
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\obj\Debug\Jared-Daniels-CPT-206-Lab-3.csproj.CoreCompileInputs.cache
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\obj\Debug\Jared-Daniels-CPT-206-Lab-3.exe
+C:\Users\ktjda\source\repos\Jared-Daniels-CPT-206-Lab-3\obj\Debug\Jared-Daniels-CPT-206-Lab-3.pdb
